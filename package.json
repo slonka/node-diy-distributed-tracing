@@ -1,0 +1,25 @@
+{
+  "name": "node-diy-distributed-tracing",
+  "version": "1.0.0",
+  "description": "Adds x-correlation-id header to all responses and propagates them to other services",
+  "main": "server.js",
+  "scripts": {
+    "test": "./test.sh",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "tutorial",
+    "distributed-tracing",
+    "tracing",
+    "trace",
+    "id",
+    "correlation",
+    "id",
+    "shimmer",
+    "async",
+    "hooks",
+    "uuid"
+  ],
+  "author": "Krzysztof Slonka",
+  "license": "MIT"
+}
